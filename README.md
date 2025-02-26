@@ -10,42 +10,42 @@
 
 - Backend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,ts,nodejs,jest" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills-icons.vercel.app/api/icons?i=ts,go,bun,py,java,nodejs,jest" />
   </a>
 </p>
 
 - Cloud technologies
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,jenkins" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vercel,supabase,azure" />
-  </a>
+  <div >
+    <img src="https://skills-icons.vercel.app/api/icons?i=aws,vercel,supabase,azure" />
+  </div>
 </p>
 
 - Database
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills-icons.vercel.app/api/icons?i=postgresql,mongodb,redis" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills-icons.vercel.app/api/icons?i=nextjs,tailwind" />
   </a>
 </p>
 
 - Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,figma,githubactions" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills-icons.vercel.app/api/icons?i=git,github,postman,figma,githubactions" />
   </a>
 </p>
