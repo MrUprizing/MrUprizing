@@ -11,7 +11,7 @@
 - Backend
 <p align="left">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills-icons.vercel.app/api/icons?i=ts,go,hono,bun,py,java,nodejs,jest,drizzle" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=ts,go,hono,bun,python,java,nodejs,jest,drizzle" />
   </a>
 </p>
 
