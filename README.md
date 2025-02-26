@@ -11,21 +11,21 @@
 - Backend
 <p align="left">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills-icons.vercel.app/api/icons?i=ts,go,bun,py,java,nodejs,jest" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=ts,go,hono,bun,py,java,nodejs,jest,drizzle" />
   </a>
 </p>
 
 - Cloud technologies
 <p align="left">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,jenkins" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=docker,kubernetes,terraform,jenkins,argocd" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <div >
-    <img src="https://skills-icons.vercel.app/api/icons?i=aws,vercel,supabase,azure" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=aws,digitalocean,vercel,supabase,azure,cloudinary" />
   </div>
 </p>
 
@@ -39,7 +39,7 @@
 - Frontend
 <p align="left">
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills-icons.vercel.app/api/icons?i=nextjs,tailwind" />
+    <img src="https://skills-icons.vercel.app/api/icons?i=nextjs,svelte,expo,tailwind,shadcnui" />
   </a>
 </p>
 
