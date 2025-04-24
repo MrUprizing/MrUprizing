@@ -1,4 +1,4 @@
-<h1 align="left">uprizingFaze</h1>
+<h1 align="left">MrUprizing</h1>
 
 
 <p aling="left">Back-End, DevOps and Cloud. ◼️</p>
