@@ -1,8 +1,10 @@
 # MrUprizing
 
-Software engineering student ◽️ 
 Back-End, DevOps and Cloud ◼️  
+Software engineering student ◽️  
 Front-End hobbyist 🎧  
+
+**+4 years developing**
 
 ## Stack
 
